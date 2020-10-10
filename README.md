@@ -1,2 +1,2 @@
 # PawnAlgorithms
-A set of algorithms that can be implemented in Pawn
+Collection of algorithms implemented in Pawn 
