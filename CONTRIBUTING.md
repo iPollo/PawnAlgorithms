@@ -29,8 +29,8 @@
 - **Test Cases:** When submitting a new algorithm, be sure to add examples and test cases and indicate it as an option for its implementation.
 - **Directory Case:** Make sure to put your new file in the correct directory, if it doesn't fit in any, create one for it with a short and simple name that explains what the folder is about, following the Directory guidelines below
 - **Directory Guidelines:** Avoid creating new directories as much as possible, but if it is "impossible" follow:
-- - Do not use spaces or "-" between words, use only '\_' (e.g: Math_geometric)
-- - The initial letter must be uppercase, the others, lower case.
+  - Do not use spaces or "-" between words, use only '\_' (e.g: Math_geometric)
+  - The initial letter must be uppercase, the others, lower case.
 
 ## Ethical Maintenance Protocol
 
