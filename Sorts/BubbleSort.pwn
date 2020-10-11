@@ -1,5 +1,6 @@
 // Bubble Sort Algorithm
-// Written by @iPollo
+// Original Post By: @iPollo
+// Maintainers: @iPollo
 
 // This algorithm (Bubble Sort) orders a chain of numbers
 // based on a single analysis between two values ​​in a loop.
