@@ -23,7 +23,6 @@ stock bubbleSort(yourArray[], yourArraySize){
         new swapped = false;
         for (new j = 0; j < yourArraySize - 1 - i; j++){ 
             if (yourArray[j] > yourArray[j + 1]){  swapValues(yourArray[j], yourArray[j + 1]); swapped = true; }
-        }
         if (!swapped) break;
     }
 }
