@@ -21,7 +21,7 @@ stock swapValues(&value_1, &value_2) {
 stock bubbleSort(yourArray[], yourArraySize){
     for (new i = 0; i < yourArraySize - 1; i++){                
         new swapped = false;
-        for (new j = 0; j < yourArraySize - 1 - i; j++){ 
+        for (new j = 0; j < yourArraySize - 1 - i; j++)
             if (yourArray[j] > yourArray[j + 1]){  swapValues(yourArray[j], yourArray[j + 1]); swapped = true; }
         if (!swapped) break;
     }
