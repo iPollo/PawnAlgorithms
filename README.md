@@ -1,6 +1,7 @@
 # Pawn Algorithms
 [![Contributing](https://img.shields.io/badge/Contributing-iP/PA-green.svg)](https://github.com/iPollo/PawnAlgorithms/blob/main/CONTRIBUTING.md)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/iPollo/PawnAlgorithms/blob/main/LICENSE)
+[![sampctl](https://img.shields.io/badge/sampctl-pawn--libraries-2f2f2f.svg?style=for-the-badge)](https://github.com/openmultiplayer/stdlib)
 
 ## Introduction
 
