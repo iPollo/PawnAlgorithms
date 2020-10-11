@@ -1,4 +1,4 @@
-# Contributing Guidelines
+# Contribution Guidelines
 
 ## Fundamentals of Contribution
 
