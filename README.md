@@ -1,4 +1,5 @@
 # PawnAlgorithms
+<<<<<<< HEAD
 
 A set of algorithms that can be implemented in Pawn
 
@@ -21,3 +22,6 @@ The repository is a collection of open-source implementation of a variety of alg
 - If you have a unique algorithm, share it by creating a Pull Request.
 - Simple and adapted algorithms for Pawn are also welcome, as long as their origin is specified in the file.
 - If you have an algorithm developed by someone, please credit it.
+=======
+Collection of algorithms implemented in Pawn 
+>>>>>>> 1a7bc50ee09fb0bb8147b540a0c30810ff9683e8

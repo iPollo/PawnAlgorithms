@@ -5,6 +5,7 @@
 // based on a single analysis between two values ​​in a loop.
 // If, in the loop, the next value to be checked is less than
 // the current value, the code simply changes the values ​​in the array, and so on.
+// For more INFO: https://pt.wikipedia.org/wiki/Bubble_sort
 
 // This model sorts the values ​​in ascending order from lowest to highest index.
 
