@@ -1,4 +1,5 @@
 # Pawn Algorithms
+
 [![Contributing](https://img.shields.io/badge/Contributing-iP/PA-green.svg)](https://github.com/iPollo/PawnAlgorithms/blob/main/CONTRIBUTING.md)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/iPollo/PawnAlgorithms/blob/main/LICENSE)
 [![sampctl](https://img.shields.io/badge/Sampctl-Pawn--Libraries-red.svg)](https://github.com/openmultiplayer/stdlib)
@@ -18,7 +19,8 @@ The repository is a collection of open-source implementation of a variety of alg
 
 - This repository is maintained and managed by the community.
 - The aim is to disclose the most common to the most complex algorithms that can be implemented in Pawn.
-- If you have a unique algorithm, share it by creating a Pull Request.
-- Simple and adapted algorithms for Pawn are also welcome, as long as their origin is specified in the file.
-- If you have an algorithm developed by someone, please credit it.
-- For more INFO, see: [Contribution](https://github.com/iPollo/PawnAlgorithms/blob/main/CONTRIBUTING.md).
+- If you have a unique algorithm, share it by following the [Contribution Guidelines](https://github.com/iPollo/PawnAlgorithms/blob/main/CONTRIBUTING.md).
+
+## Considerations
+
+- Don't forget to code smiling :)
