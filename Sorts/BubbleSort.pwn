@@ -43,7 +43,7 @@ stock testFunction() {
     //Generate Random values for each index and then print the Array
     for (new i = 0; i < arraySize; i++) { testArray[i] = random(100); printf("Index[%i]: %d", i, testArray[i]); }
 
-    //Call the QuickSort_Asc function
+    //Call the BubbleSort function
     bubbleSort(testArray, arraySize);
     print("----");
 
