@@ -13,7 +13,7 @@
 // But, in code, you can choose randomly. But know that the more average
 // the pivot value is in relation to all the values ​​of the array, the better the algorithm will be.
 // After the code establishes a pivot, a loop is performed through the array, organizing the
-// values ​​lower than the pivot on the left and the largest on the right.
+// values ​​lower than the pivot on the left and the largest on the right (to ascending order).
 // With the pivot in its final position, we will have lower values ​​on the left and higher
 // values ​​on the right, this procedure, in this case, is called Partition.
 // We now have two subpartitions, now we just need to do the same procedure
