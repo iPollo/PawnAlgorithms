@@ -6,6 +6,7 @@
 // Compared to many other types of sort algorithms, this one becomes one of
 // the most efficient as it uses recursion to organize values.
 // Recursion is when a given function refers to itself, being called within its own structure.
+// this algorithm is known to be of the type Divide-and-conquer.
 
 // The function of the algorithm is based on the choice of what we call pivot,
 // the choice of the pivot can very differentiate the efficiency of the algorithm.
