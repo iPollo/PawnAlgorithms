@@ -21,7 +21,10 @@ stock FindHighestValue(baseArray[], arraySize) {
         if (baseArray[i] > currentMaxValue) currentMaxValue = baseArray[i]; // Checks if it is greater, if so, 'currentMaxValue' assumes this value.
     return currentMaxValue; // Returns the highest value
 } 
-  
+// FindHighestValue
+// INPUT: 42 99 8 61 42 25 98 7 67 50
+// OUTPUT: 99
+
 // This function is optional to test the algorithm, just select
 // a value in 'arraySize' and the code will generate random values 
 // for each index, printing them out then finding the highest value.

@@ -22,6 +22,9 @@ stock FindLowestValue(baseArray[], arraySize) {
     	if (baseArray[i] < currentMinValue) currentMinValue = baseArray[i]; // Checks if it is lowest, if so, 'currentMainValue' assumes this value.
     return currentMinValue; // Returns the lowest value
 } 
+// FindHighestValue
+// INPUT: 94 40 92 50 77 52 25 66 11 47
+// OUTPUT: 11
   
 // This function is optional to test the algorithm, just select
 // a value in 'arraySize' and the code will generate random values 
