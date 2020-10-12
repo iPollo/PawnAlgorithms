@@ -10,7 +10,7 @@
 // The function of the algorithm is based on the choice of what we call pivot,
 // the choice of the pivot can very differentiate the efficiency of the algorithm.
 // as a default, the first or last index of the array is adopted.
-// But, in code, you can choos randomly. But know that the more average
+// But, in code, you can choose randomly. But know that the more average
 // the pivot value is in relation to all the values ​​of the array, the better the algorithm will be.
 // After the code establishes a pivot, a loop is performed through the array, organizing the
 // values ​​lower than the pivot on the left and the largest on the right.
