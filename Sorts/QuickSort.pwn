@@ -24,7 +24,7 @@
 // We chose the last value "5" as the pivot.
 // We organize smaller than the pivot to the left and the largest ones to the right.
 // So we have: 421(5)98. Now we do the same for: 421 and 98. so on
-// For more INFO: https://pt.wikipedia.org/wiki/Quicksort
+// For more detailed INFO: https://pt.wikipedia.org/wiki/Quicksort
 
 // Function responsible for exchanging two values
 stock swapValues(&value_1, &value_2) {
