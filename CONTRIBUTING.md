@@ -7,7 +7,7 @@
 - If you have a unique algorithm, share it by following the guidelines in this file.
 - Simple and adapted algorithms for Pawn are also welcome, as long as their origin/author is specified in the file and if its license permits.
 - If you have an algorithm developed by someone, please credit it.
-- If you share, your work will be distributed under the [MIT License](https://github.com/iPollo/PawnAlgorithms/blob/main/LICENSE) once it is integrated into the main project.
+- If you share, your work will be distributed under the [GPL-3.0 License](https://github.com/iPollo/PawnAlgorithms/blob/main/LICENSE) once it is integrated into the main project.
 
 ## File Structures
 
