@@ -7,7 +7,7 @@
 
 ## Introduction
 
-The repository is a collection of open-source implementation of a variety of algorithms implemented in PAWN and licensed under [MIT License](https://github.com/iPollo/PawnAlgorithms/blob/main/LICENSE). This repository aims to share several algorithms implemented in Pawn for educational and professional purposes, the codes contain descriptions that aim to be detailed to exemplify the functionality of the algorithm.
+The repository is a collection of open-source implementation of a variety of algorithms implemented in PAWN and licensed under [GPL-3.0 License](https://github.com/iPollo/PawnAlgorithms/blob/main/LICENSE). This repository aims to share several algorithms implemented in Pawn for educational and professional purposes, the codes contain descriptions that aim to be detailed to exemplify the functionality of the algorithm.
 
 ## Fundamentals
 
