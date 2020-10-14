@@ -1,4 +1,4 @@
-// Square Geometry
+// Combination Algorithm
 // Original Post By: @iPollo
 // Maintainers: @iPollo
 
