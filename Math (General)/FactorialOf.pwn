@@ -9,6 +9,6 @@
 
 stock FactorialOf(value)
 	return value > 1 ? value * FactorialOf(value - 1) : 1;
-
+// FactorialOf
 // INPUT: 5
 // OUTPUT: 120
