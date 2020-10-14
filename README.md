@@ -4,6 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/iPollo/PawnAlgorithms/blob/main/LICENSE)
 [![sampctl](https://img.shields.io/badge/Sampctl-Pawn--Libraries-red.svg)](https://github.com/openmultiplayer/stdlib)
 [![qawno](https://img.shields.io/badge/Zeex-Qawno-orange.svg)](https://github.com/Zeex/qawno)
+[![openmp](https://img.shields.io/badge/OpenMp-Project-purple.svg)](https://github.com/openmultiplayer)
 
 ## Introduction
 
