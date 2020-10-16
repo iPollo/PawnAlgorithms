@@ -1,4 +1,4 @@
-// Combination Algorithm
+// Permutations Algorithm
 // Original Post By: @iPollo
 // Maintainers: @iPollo
 
