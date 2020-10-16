@@ -1,4 +1,4 @@
-// IsVehicleUpsideDown Function
+// GetPlayerIDFromName Function
 // Author: @Southclaws (Function from Southclaws/ScavengeSurvive)
 // Original Post By: @iPollo
 // Maintainers: @iPollo
