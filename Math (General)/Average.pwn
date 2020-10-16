@@ -1,4 +1,4 @@
-// Combination Algorithm
+// Average Algorithm
 // Original Post By: @iPollo
 // Maintainers: @iPollo
 
