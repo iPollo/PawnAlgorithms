@@ -4,8 +4,8 @@
 // Maintainers: @iPollo
 
 // This function checks whether a vehicle is upside down.
-stock IsVehicleUpsideDown(vehicleid)
-{
+stock IsVehicleUpsideDown(vehicleid){
+	
     // Declaring the necessary variables
 	new
 		Float:w,
