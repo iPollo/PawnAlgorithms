@@ -5,7 +5,7 @@
 
 // This function teleports one player to another, with extra checks
 stock TeleportPlayerToPlayer(playerid, targetid){
-	// Declaring
+	// Declaring the necessary variables
 	new
 		Float:playerXpos,
 		Float:playerYpos,
