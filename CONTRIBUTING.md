@@ -11,7 +11,13 @@
 
 ## File Structures
 
-- **Main:** Each file will contain the titles "Original Post By" and "Maintainers", everyone who helps to improve the file itself will be marked in it.
+- **Main:** Each file will contain the titles (at the top of the file): Name of the function, "Original Post By" and "Maintainers", everyone who helps to improve the file itself will be marked in it.
+- **Author:** If the function is taken from some other repository, if the license asks, put the title Author as well.
+- **Structure Example:**
+  - AddNumbers Function
+  - Author: @Name, repository.
+  - Original Post By: @Name (who created the post for this function)
+  - Maintainers: @Name, @Name, ... (Anyone who has helped maintain this file)
 - **Code Practices:** Clearly, you should always seek to use good code practices. But don't worry, if you have an algorithm and want to share, follow this guide and go ahead. Over time the architecture of the codes will be improved, with this, you will be able to follow the changes and study these new structures in detail, understanding how to apply good practices and why to apply them.
 - **Helping:** Any help is welcome to maintain a good repository, from a spell check to a new implementation for an algorithm.
 
