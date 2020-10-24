@@ -16,7 +16,7 @@
 // 8 is greater than ours 'currentMinValue' (wich is 2) so this value will not be assigned to our variable.
 // And so the code determines the lowest value.
 
-stock FindLowestValue(baseArray[], arraySize) { 
+stock FindLowestValue(const baseArray[], arraySize = sizeof(baseArray)) { 
     new currentMinValue = baseArray[0]; // Determines index "0" as the lowest initial value
     for (new i = 1; i < arraySize; i++)  // Loops
     	if (baseArray[i] < currentMinValue) currentMinValue = baseArray[i]; // Checks if it is lowest, if so, 'currentMainValue' assumes this value.
