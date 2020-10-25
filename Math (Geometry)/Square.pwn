@@ -17,7 +17,7 @@ stock Float:SquarePerimeter(Float:sideLength)
 // OUTPUT: 8.0
 
 // Get the Square Diagonal
-stock SquareDiagonal(Float:sideLength)
+stock Float:SquareDiagonal(Float:sideLength)
     return sideLength * floatsqroot(2.0);
 // SquareDiagonal
 // INPUT: 2.0
