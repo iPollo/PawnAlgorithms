@@ -15,7 +15,7 @@
 // 8 is greater than ours 'currentMaxValue' (wich is 7) so this value will be assigned to our variable.
 // And so the code determines the highest value.
 
-stock FindHighestValue(baseArray[], arraySize) { 
+stock FindHighestValue(const baseArray[], arraySize = sizeof(baseArray)) { 
     new currentMaxValue = baseArray[0]; // Determines index "0" as the highest initial value
     for (new i = 1; i < arraySize; i++) // Loops
         if (baseArray[i] > currentMaxValue) currentMaxValue = baseArray[i]; // Checks if it is greater, if so, 'currentMaxValue' assumes this value.
