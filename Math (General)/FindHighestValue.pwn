@@ -1,6 +1,6 @@
 // Find Highest Value Algorithm
 // Original Post By: @iPollo
-// Maintainers: @iPollo
+// Maintainers: @iPollo, @coool9
 
 // This algorithm finds the highest value in a number chain for a given Array
 // It loops through the Array, starting with the index "0" as the highest value.

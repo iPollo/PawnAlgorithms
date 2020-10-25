@@ -1,6 +1,6 @@
 // Average Algorithm
 // Original Post By: @iPollo
-// Maintainers: @iPollo
+// Maintainers: @iPollo, @coool9
 
 // This function finds the average of certain numbers in an array.
 stock Float:Average(const baseArray[], arraySize = sizeof(baseArray)) {
