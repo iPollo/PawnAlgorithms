@@ -3,7 +3,7 @@
 // Maintainers: @iPollo
 
 // This function finds the average of certain numbers in an array.
-stock Float:Average(const baseArray[], arraySize = sizeof(basearray)) {
+stock Float:Average(const baseArray[], arraySize = sizeof(baseArray)) {
 
     // Declaring a base variable to hold the returning value.
     new Float:baseValue = 0;
