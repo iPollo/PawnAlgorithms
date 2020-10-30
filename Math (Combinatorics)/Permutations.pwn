@@ -2,12 +2,6 @@
 // Original Post By: @iPollo
 // Maintainers: @iPollo
 
-// This function calculates the factorial of a number using recursion.
-// We don't actually need this function for the execution of this algorithm,
-// but it is an important function for all combinatorics.
-stock FactorialOf(value)
-	return value > 1 ? value * FactorialOf(value - 1) : 1;
-
 // This function calculates the total number of possible permutations using iteration
 stock Permutations(numberOfElements, numberOfSelectedElements){
 

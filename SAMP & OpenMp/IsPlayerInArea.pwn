@@ -15,7 +15,7 @@ stock IsPlayerInArea(playerid, Float:MinX, Float:MinY, Float:MaxX, Float:MaxY){
 	GetPlayerPos(playerid,x,y,pz);
 
     // Now we check if the player is within the given limits, if so return true
-	if(x >= MinX && x <= MaxX && y >= MinY && y <= MaxY)
+	if(x >= MinX && x < MaxX && y >= MinY && y < MaxY)
 		return 1;
 
     // If not return false

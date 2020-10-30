@@ -2,9 +2,8 @@
 // Original Post By: @iPollo
 // Maintainers: @iPollo
 
-// This function calculates the factorial of a number using recursion.
-stock FactorialOf(value)
-	return value > 1 ? value * FactorialOf(value - 1) : 1;
+// this function requires the function FactorialOf, see:
+// github.com/iPollo/PawnAlgorithms/blob/main/Math%20(Combinatorics)/FactorialOf.pwn
 
 // This function calculates the number of existing combinations using iteration
 stock Combinations(numberOfElements, numberOfSelectedElements){
